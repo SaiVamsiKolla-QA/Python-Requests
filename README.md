@@ -1,2 +1,2 @@
 # Python-Requests
-Demo API Project using python request
+Demo API Project using Python requests
